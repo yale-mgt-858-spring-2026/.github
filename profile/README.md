@@ -12,7 +12,7 @@ This is the fourth time I've taught this course. Thanks for joining!
 |  📚&nbsp;Units  |  2  units  in  Yale  College  and  equivalent  elsewhere  |
 |  👥&nbsp;Enrollment  |  Open  to  any  student  at  Yale  |
 |  📅&nbsp;Term  |  Spring-2  2026  (half-term)  |
-|  🕓&nbsp;Meeting  Time  |  Monday &  Wednesday 13:00-14:20  EDT,  March  23  -  May  4,  2026  |
+|  🕓&nbsp;Meeting  Time  |  Monday &  Wednesday 14:40-16:00  EDT,  March  23  -  May  4,  2026  |
 |  💀&nbsp;Final Exam | Monday, May 4th in class |
 |  🏫&nbsp;Meeting  Location  |  Room  2410  in  [Evans  Hall](https://map.yale.edu/?id=1910#!m/560094)  |
 |  💻&nbsp;Zoom  link  |  No  zoom  🙁  |
