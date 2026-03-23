@@ -21,7 +21,7 @@ This is the fourth time I've taught this course. Thanks for joining!
 |  🌐&nbsp;Website  |  http://858.mba   |
 |  💬&nbsp;Discussions  |  https://github.com/orgs/yale-mgt-858-spring-2026/discussions (must be GitHub org member) |  
 |  👨‍🏫&nbsp;Instructor  |  Kyle  Jensen  |
-|  🤝&nbsp;Teaching Assistant | [Max Braun](mailto:max.braun@yale.edu) |
+|  🤝&nbsp;Teaching Assistant | [Max Li](mailto:max.li.yl2847@yale.edu) |
 
 
 MGT858 introduces students to the database systems used in modern
@@ -83,7 +83,7 @@ Feel free to send an email if these times do not work for you.
 | Person          | Email | Hours            | Location/URL                                                                |
 | --------------- | ----- | ----------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | kyle.jensen@yale.edu | TBD | TBD |
-| Max Braun | max.braun@yale.edu | TBD | TBD |
+| Max Li | max.li.yl2847@yale.edu | TBD | TBD |
 
 
 ## Development environment
