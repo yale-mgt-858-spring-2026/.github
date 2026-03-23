@@ -88,7 +88,7 @@ Feel free to send an email if these times do not work for you.
 
 ## Development environment
 
-You will need to write code a lot of code this semester, mostly
+You will need to write a lot of code this semester, mostly
 domain-specific query languages like [PostgreSQL-flavored
 SQL](https://www.postgresql.org/docs/).  Most of the homework
 assignments and the final exam will require using the [git version
@@ -152,7 +152,7 @@ A few notes about the quizzes...
 
 * The quiz questions are not uniformly drawn from material in
   the pre-class reading. Some pre-class reading will be over-represented
-  and some under-represented either, usually because of heterogeneous
+  and some under-represented, usually because of heterogeneous
   importance of the pre-class reading material.
 * We want the quiz questions to test your conceptual understanding.
   We do not want to ask "gotcha" questions or simple recall questions.
@@ -176,8 +176,8 @@ access to [GitHub Copilot](https://github.com/features/copilot)
 by applying for the [GitHub Student Developer
 Pack](https://education.github.com/pack).  You can also use [Yale's
 Clarity Platform](https://ai-chat.yale.edu/), which is a thin wrapper
-around ChatGPT 4o and Claude Sonnet 3.5.  Either of those models is
-going to be great at the homework I give you (as long as you prompt
+around various frontier models.  Any of these models will
+be great at the homework I give you (as long as you prompt
 them smartly).
 
 
@@ -217,7 +217,7 @@ mostly for line-by-line staging of changes.
 There is no textbook for the course. Readings will be posted on the
 [class website](https://858.mba).
 
-## Diversity, equity, inclusion and their opposites
+## Inclusion
 
 This class will be an inclusive environment. If you see behavior that
 you feel is discriminatory, abusive, or unprofessional, _particularly_
